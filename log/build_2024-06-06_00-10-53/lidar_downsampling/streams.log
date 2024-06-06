@@ -1,0 +1,21 @@
+[1.812s] Invoking command in '/home/flash/ros2_workspace/src/lidar_downsampling': PYTHONPATH=/home/flash/ros2_workspace/build/lidar_downsampling/prefix_override:/home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_downsampling build --build-base /home/flash/ros2_workspace/build/lidar_downsampling/build install --record /home/flash/ros2_workspace/build/lidar_downsampling/install.log --single-version-externally-managed install_data
+[2.430s] running egg_info
+[2.430s] writing ../../build/lidar_downsampling/lidar_downsampling.egg-info/PKG-INFO
+[2.430s] writing dependency_links to ../../build/lidar_downsampling/lidar_downsampling.egg-info/dependency_links.txt
+[2.431s] writing entry points to ../../build/lidar_downsampling/lidar_downsampling.egg-info/entry_points.txt
+[2.431s] writing requirements to ../../build/lidar_downsampling/lidar_downsampling.egg-info/requires.txt
+[2.431s] writing top-level names to ../../build/lidar_downsampling/lidar_downsampling.egg-info/top_level.txt
+[2.438s] reading manifest file '../../build/lidar_downsampling/lidar_downsampling.egg-info/SOURCES.txt'
+[2.439s] writing manifest file '../../build/lidar_downsampling/lidar_downsampling.egg-info/SOURCES.txt'
+[2.439s] running build
+[2.439s] running build_py
+[2.439s] running install
+[2.439s] running install_lib
+[2.442s] running install_data
+[2.442s] running install_egg_info
+[2.446s] removing '/home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages/lidar_downsampling-0.0.0-py3.10.egg-info' (and everything under it)
+[2.446s] Copying ../../build/lidar_downsampling/lidar_downsampling.egg-info to /home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages/lidar_downsampling-0.0.0-py3.10.egg-info
+[2.447s] running install_scripts
+[2.507s] Installing lidar_downsampling_node script to /home/flash/ros2_workspace/install/lidar_downsampling/lib/lidar_downsampling
+[2.508s] writing list of installed files to '/home/flash/ros2_workspace/build/lidar_downsampling/install.log'
+[2.545s] Invoked command in '/home/flash/ros2_workspace/src/lidar_downsampling' returned '0': PYTHONPATH=/home/flash/ros2_workspace/build/lidar_downsampling/prefix_override:/home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_downsampling build --build-base /home/flash/ros2_workspace/build/lidar_downsampling/build install --record /home/flash/ros2_workspace/build/lidar_downsampling/install.log --single-version-externally-managed install_data

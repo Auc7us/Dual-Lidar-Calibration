@@ -1,0 +1,21 @@
+[0.328s] Invoking command in '/home/flash/ros2_workspace/build/pcl_warping': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/flash/ros2_workspace/build/pcl_warping -- -j12 -l12
+[0.456s] [35m[1mConsolidate compiler generated dependencies of target lidar_warping_node[0m
+[0.510s] [100%] Built target lidar_warping_node
+[0.525s] Invoked command in '/home/flash/ros2_workspace/build/pcl_warping' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/flash/ros2_workspace/build/pcl_warping -- -j12 -l12
+[0.564s] Invoking command in '/home/flash/ros2_workspace/build/pcl_warping': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/flash/ros2_workspace/build/pcl_warping
+[0.573s] -- Install configuration: ""
+[0.574s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/lib/pcl_warping/lidar_warping_node
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/ament_index/resource_index/package_run_dependencies/pcl_warping
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/ament_index/resource_index/parent_prefix_path/pcl_warping
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/environment/ament_prefix_path.dsv
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/environment/path.dsv
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/local_setup.bash
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/local_setup.sh
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/local_setup.zsh
+[0.575s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/local_setup.dsv
+[0.575s] -- Installing: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/package.dsv
+[0.576s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/ament_index/resource_index/packages/pcl_warping
+[0.576s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/cmake/pcl_warpingConfig.cmake
+[0.576s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/cmake/pcl_warpingConfig-version.cmake
+[0.576s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_warping/share/pcl_warping/package.xml
+[0.579s] Invoked command in '/home/flash/ros2_workspace/build/pcl_warping' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/flash/ros2_workspace/build/pcl_warping

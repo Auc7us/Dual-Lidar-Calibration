@@ -1,0 +1,17 @@
+[35m[1mConsolidate compiler generated dependencies of target downsampling_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/downsampling_node.dir/src/downsampling_node.cpp.o[0m
+[01m[K/home/flash/ros2_workspace/src/pcl_downsampling/src/downsampling_node.cpp:[m[K In member function ‘[01m[Kvoid DownsamplingNode::topic_callback(sensor_msgs::msg::PointCloud2_<std::allocator<void> >::SharedPtr) const[m[K’:
+[01m[K/home/flash/ros2_workspace/src/pcl_downsampling/src/downsampling_node.cpp:38:9:[m[K [01;31m[Kerror: [m[K‘[01m[Koutput_topic[m[K’ was not declared in this scope
+   38 |     if ([01;31m[Koutput_topic[m[K == "/sensing/x90_l/points_downsampled") {
+      |         [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/flash/ros2_workspace/src/pcl_downsampling/src/downsampling_node.cpp:39:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kpublisher_l_[m[K’ was not declared in this scope; did you mean ‘[01m[Kpublisherl_[m[K’?
+   39 |         [01;31m[Kpublisher_l_[m[K->publish(output);
+      |         [01;31m[K^~~~~~~~~~~~[m[K
+      |         [32m[Kpublisherl_[m[K
+[01m[K/home/flash/ros2_workspace/src/pcl_downsampling/src/downsampling_node.cpp:42:7:[m[K [01;31m[Kerror: [m[K‘[01m[Kpublisher_r_[m[K’ was not declared in this scope; did you mean ‘[01m[Kpublisherr_[m[K’?
+   42 |       [01;31m[Kpublisher_r_[m[K->publish(output);
+      |       [01;31m[K^~~~~~~~~~~~[m[K
+      |       [32m[Kpublisherr_[m[K
+gmake[2]: *** [CMakeFiles/downsampling_node.dir/build.make:76: CMakeFiles/downsampling_node.dir/src/downsampling_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/downsampling_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,33 @@
+[1.644s] Invoking command in '/home/flash/ros2_workspace/src/lidar_downsampling': PYTHONPATH=/home/flash/ros2_workspace/build/lidar_downsampling/prefix_override:/home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_downsampling build --build-base /home/flash/ros2_workspace/build/lidar_downsampling/build install --record /home/flash/ros2_workspace/build/lidar_downsampling/install.log --single-version-externally-managed install_data
+[2.201s] running egg_info
+[2.202s] creating ../../build/lidar_downsampling/lidar_downsampling.egg-info
+[2.202s] writing ../../build/lidar_downsampling/lidar_downsampling.egg-info/PKG-INFO
+[2.202s] writing dependency_links to ../../build/lidar_downsampling/lidar_downsampling.egg-info/dependency_links.txt
+[2.202s] writing entry points to ../../build/lidar_downsampling/lidar_downsampling.egg-info/entry_points.txt
+[2.202s] writing requirements to ../../build/lidar_downsampling/lidar_downsampling.egg-info/requires.txt
+[2.202s] writing top-level names to ../../build/lidar_downsampling/lidar_downsampling.egg-info/top_level.txt
+[2.217s] writing manifest file '../../build/lidar_downsampling/lidar_downsampling.egg-info/SOURCES.txt'
+[2.219s] reading manifest file '../../build/lidar_downsampling/lidar_downsampling.egg-info/SOURCES.txt'
+[2.219s] writing manifest file '../../build/lidar_downsampling/lidar_downsampling.egg-info/SOURCES.txt'
+[2.219s] running build
+[2.220s] running build_py
+[2.220s] creating /home/flash/ros2_workspace/build/lidar_downsampling/build
+[2.220s] creating /home/flash/ros2_workspace/build/lidar_downsampling/build/lib
+[2.220s] creating /home/flash/ros2_workspace/build/lidar_downsampling/build/lib/lidar_downsampling
+[2.221s] copying lidar_downsampling/__init__.py -> /home/flash/ros2_workspace/build/lidar_downsampling/build/lib/lidar_downsampling
+[2.221s] running install
+[2.221s] running install_lib
+[2.221s] creating /home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages/lidar_downsampling
+[2.221s] copying /home/flash/ros2_workspace/build/lidar_downsampling/build/lib/lidar_downsampling/__init__.py -> /home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages/lidar_downsampling
+[2.223s] byte-compiling /home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages/lidar_downsampling/__init__.py to __init__.cpython-310.pyc
+[2.223s] running install_data
+[2.224s] creating /home/flash/ros2_workspace/install/lidar_downsampling/share/ament_index
+[2.224s] creating /home/flash/ros2_workspace/install/lidar_downsampling/share/ament_index/resource_index
+[2.224s] creating /home/flash/ros2_workspace/install/lidar_downsampling/share/ament_index/resource_index/packages
+[2.224s] copying resource/lidar_downsampling -> /home/flash/ros2_workspace/install/lidar_downsampling/share/ament_index/resource_index/packages
+[2.224s] copying package.xml -> /home/flash/ros2_workspace/install/lidar_downsampling/share/lidar_downsampling
+[2.224s] running install_egg_info
+[2.227s] Copying ../../build/lidar_downsampling/lidar_downsampling.egg-info to /home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages/lidar_downsampling-0.0.0-py3.10.egg-info
+[2.228s] running install_scripts
+[2.269s] writing list of installed files to '/home/flash/ros2_workspace/build/lidar_downsampling/install.log'
+[2.302s] Invoked command in '/home/flash/ros2_workspace/src/lidar_downsampling' returned '0': PYTHONPATH=/home/flash/ros2_workspace/build/lidar_downsampling/prefix_override:/home/flash/ros2_workspace/install/lidar_downsampling/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_downsampling build --build-base /home/flash/ros2_workspace/build/lidar_downsampling/build install --record /home/flash/ros2_workspace/build/lidar_downsampling/install.log --single-version-externally-managed install_data

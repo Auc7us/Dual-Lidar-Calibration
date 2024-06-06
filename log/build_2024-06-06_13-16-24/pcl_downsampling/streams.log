@@ -1,0 +1,20 @@
+[0.340s] Invoking command in '/home/flash/ros2_workspace/build/pcl_downsampling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/flash/ros2_workspace/install/lidar_downsampling:/opt/ros/humble /usr/bin/cmake --build /home/flash/ros2_workspace/build/pcl_downsampling -- -j12 -l12
+[0.410s] [100%] Built target downsampling_node
+[0.425s] Invoked command in '/home/flash/ros2_workspace/build/pcl_downsampling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/flash/ros2_workspace/install/lidar_downsampling:/opt/ros/humble /usr/bin/cmake --build /home/flash/ros2_workspace/build/pcl_downsampling -- -j12 -l12
+[0.464s] Invoking command in '/home/flash/ros2_workspace/build/pcl_downsampling': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/flash/ros2_workspace/install/lidar_downsampling:/opt/ros/humble /usr/bin/cmake --install /home/flash/ros2_workspace/build/pcl_downsampling
+[0.473s] -- Install configuration: ""
+[0.473s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/lib/pcl_downsampling/downsampling_node
+[0.473s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/ament_index/resource_index/package_run_dependencies/pcl_downsampling
+[0.474s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/ament_index/resource_index/parent_prefix_path/pcl_downsampling
+[0.474s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/environment/ament_prefix_path.dsv
+[0.474s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/environment/path.dsv
+[0.474s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/local_setup.bash
+[0.474s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/local_setup.sh
+[0.474s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/local_setup.zsh
+[0.475s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/local_setup.dsv
+[0.475s] -- Installing: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/package.dsv
+[0.475s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/ament_index/resource_index/packages/pcl_downsampling
+[0.475s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/cmake/pcl_downsamplingConfig.cmake
+[0.475s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/cmake/pcl_downsamplingConfig-version.cmake
+[0.475s] -- Up-to-date: /home/flash/ros2_workspace/install/pcl_downsampling/share/pcl_downsampling/package.xml
+[0.478s] Invoked command in '/home/flash/ros2_workspace/build/pcl_downsampling' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/flash/ros2_workspace/install/lidar_downsampling:/opt/ros/humble /usr/bin/cmake --install /home/flash/ros2_workspace/build/pcl_downsampling
